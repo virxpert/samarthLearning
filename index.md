@@ -2,6 +2,10 @@
 
 Welcome to the magical world of Linuxland, where kids can learn Linux commands through exciting stories and adventures!
 
+## Quick Navigation
+
+[🚀 Start the Adventure!](adventures/00-welcome-to-linuxland.md) | [🏆 View Certificate of Achievement](certificate.md)
+
 ## Meet Our Characters
 
 - **Tux**: A curious young penguin who's just beginning to explore Linuxland

@@ -1,5 +1,7 @@
 # Moving Around Linuxland
 
+[← Back to Main Index](../index.md) | [← Previous Adventure](01-exploring-your-surroundings.md) | [Next Adventure →](03-creating-your-own-places.md)
+
 ## Adventure 2: The Magic of `cd`
 
 After discovering what was around them with the `ls` command, Tux and Ada were getting excited about exploring more of Linuxland. But they could only see the files and folders from where they were standing.

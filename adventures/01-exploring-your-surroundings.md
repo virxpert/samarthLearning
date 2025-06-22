@@ -1,5 +1,7 @@
 # Exploring Your Surroundings
 
+[← Back to Main Index](../index.md) | [← Previous Adventure](00-welcome-to-linuxland.md) | [Next Adventure →](02-moving-around-linuxland.md)
+
 ## Adventure 1: Tux Discovers the Magic of `ls`
 
 After learning how to find out where they were with `pwd`, Tux was eager to explore more of Linuxland. The young penguin looked around the terminal home but couldn't see anything.

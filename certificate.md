@@ -91,3 +91,5 @@ Now that you've completed the basic training, you might want to:
 5. Try advanced Linux commands when you're ready for new challenges
 
 Remember: Learning Linux is a journey, not a destination. Keep exploring, keep learning, and keep having fun in Linuxland!
+
+[Return to the Adventure List](index.md) | [Start the Adventures Over Again](adventures/00-welcome-to-linuxland.md)

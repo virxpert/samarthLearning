@@ -286,3 +286,9 @@ Here are some topics you might want to explore next:
 - Network tools like `ping`, `ssh`, and `curl`
 
 Remember: "The more you explore Linuxland, the more magical it becomes!"
+
+## Congratulations on Completing All Adventures!
+
+You have now completed all the adventures in Linuxland! You've learned the most important Linux commands and are well on your way to becoming a true Linux wizard.
+
+[Click here to claim your Certificate of Achievement!](../certificate.md)
