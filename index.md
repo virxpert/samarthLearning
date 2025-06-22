@@ -16,9 +16,9 @@ Each adventure teaches new Linux commands in a fun, story-based format:
 1. [Welcome to Linuxland](adventures/00-welcome-to-linuxland.md) - Introduction to the terminal and the `pwd` command
 2. [Exploring Your Surroundings](adventures/01-exploring-your-surroundings.md) - Learning to see what's around with `ls`
 3. [Moving Around Linuxland](adventures/02-moving-around-linuxland.md) - Navigating between folders with `cd`
-4. Creating Your Own Places - Making directories with `mkdir` (Coming Soon!)
-5. Creating Magic Scrolls - Creating and editing files (Coming Soon!)
-6. Copying Treasures - Using `cp` to copy files (Coming Soon!)
+4. [Creating Your Own Places](adventures/03-creating-your-own-places.md) - Making directories with `mkdir`
+5. [Creating Magic Scrolls](adventures/04-creating-magic-scrolls.md) - Creating files with `touch`
+6. [Copying Treasures](adventures/05-copying-treasures.md) - Using `cp` to copy files
 7. Moving Things Around - Using `mv` to move and rename (Coming Soon!)
 8. Cleaning Up - Safely removing files with `rm` (Coming Soon!)
 9. Finding Lost Treasures - Search commands like `find` and `grep` (Coming Soon!)
