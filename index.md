@@ -1,4 +1,4 @@
-# Samarth Learning: Linux Adventures
+# Samarth's Learning: Linux Adventures
 
 Welcome to the magical world of Linuxland, where kids can learn Linux commands through exciting stories and adventures!
 
