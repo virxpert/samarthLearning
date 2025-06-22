@@ -19,10 +19,18 @@ Each adventure teaches new Linux commands in a fun, story-based format:
 4. [Creating Your Own Places](adventures/03-creating-your-own-places.md) - Making directories with `mkdir`
 5. [Creating Magic Scrolls](adventures/04-creating-magic-scrolls.md) - Creating files with `touch`
 6. [Copying Treasures](adventures/05-copying-treasures.md) - Using `cp` to copy files
-7. Moving Things Around - Using `mv` to move and rename (Coming Soon!)
-8. Cleaning Up - Safely removing files with `rm` (Coming Soon!)
-9. Finding Lost Treasures - Search commands like `find` and `grep` (Coming Soon!)
-10. Wizard Powers - Special commands with `sudo` (Coming Soon!)
+7. [Moving Things Around](adventures/06-moving-things-around.md) - Using `mv` to move and rename
+8. [Cleaning Up](adventures/07-cleaning-up.md) - Safely removing files with `rm`
+9. [Finding Lost Treasures](adventures/08-finding-lost-treasures.md) - Search commands like `find` and `grep`
+10. [Wizard Powers](adventures/09-wizard-powers.md) - Special commands with `sudo`
+
+### Advanced Adventures (Coming Soon!)
+
+11. Magical Pipes and Redirects - Connecting commands with `|`, `>`, and `>>`
+12. Creating Spell Books - Writing shell scripts
+13. The Book of Permissions - Understanding `chmod` and `chown`
+14. Secret Messages - Text processing with `grep`, `sed`, and `awk`
+15. Remote Castle Communication - Using `ssh` and `scp`
 
 ## How to Use This Guide
 

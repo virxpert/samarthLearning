@@ -48,10 +48,20 @@ For the best experience:
 - Use colorful terminal themes to make the experience more engaging
 - Allow time for experimentation and discovery
 
+## Certificate of Achievement
+
+After completing all 10 adventures, children earn a [certificate of achievement](certificate.md) that they can print out and display. Each adventure also awards digital badges that recognize their progress and new skills.
+
 ## Contributing
 
-Instructions for how to contribute to this project.
+We welcome contributions to enhance and expand the Samarth Learning Linux Adventures! Here are some ways to contribute:
+
+- Create new adventures that teach additional Linux concepts
+- Design illustrations for our characters and the Linuxland map
+- Develop interactive elements, games, or challenges
+- Translate the adventures into other languages
+- Report bugs or suggest improvements
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
