@@ -18,6 +18,7 @@ Samarth Learning is an engaging, story-based learning module designed to teach L
 No special installation is required to use these learning materials! Simply:
 
 1. Clone or download this repository to your computer:
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/samarthLearning.git
    ```
@@ -43,9 +44,11 @@ For the best experience:
 
 - Follow the adventures in order as each builds on skills from previous ones
 - Create a safe playground directory for kids to practice in:
+
   ```bash
   mkdir ~/linuxland-playground
   ```
+
 - Use colorful terminal themes to make the experience more engaging
 - Allow time for experimentation and discovery
 
