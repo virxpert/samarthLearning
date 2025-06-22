@@ -11,6 +11,7 @@ Samarth Learning is an engaging, story-based learning module designed to teach L
 - Interactive challenges and missions for hands-on practice
 - Child-friendly explanations of complex concepts
 - Colorful characters and storylines that bring Linux to life
+- Digital illustrations of characters, badges, and the Linuxland map
 
 ## Installation
 
@@ -57,7 +58,7 @@ After completing all 10 adventures, children earn a [certificate of achievement]
 We welcome contributions to enhance and expand the Samarth Learning Linux Adventures! Here are some ways to contribute:
 
 - Create new adventures that teach additional Linux concepts
-- Design illustrations for our characters and the Linuxland map
+- Enhance existing illustrations or create new ones
 - Develop interactive elements, games, or challenges
 - Translate the adventures into other languages
 - Report bugs or suggest improvements
