@@ -1,6 +1,8 @@
 # Certificate of Achievement
 
-```
+![Certificate](images/certificate.svg)
+
+```text
  _________________________________________________
 |                                                 |
 |           OFFICIAL CERTIFICATE OF               |
@@ -35,7 +37,10 @@
 Throughout your journey in Linuxland, you've earned these special badges:
 
 ### Navigation Master
-```
+
+![Navigation Master Badge](images/badges/navigation-master.svg)
+
+```text
   🧭
  PWD
   CD
@@ -43,7 +48,10 @@ Throughout your journey in Linuxland, you've earned these special badges:
 ```
 
 ### File Creator
-```
+
+![File Creator Badge](images/badges/file-creator.svg)
+
+```text
   📝
  MKDIR
  TOUCH
@@ -51,7 +59,10 @@ Throughout your journey in Linuxland, you've earned these special badges:
 ```
 
 ### Copy & Move Expert
-```
+
+![Copy & Move Expert Badge](images/badges/copy-move-expert.svg)
+
+```text
   📋
   CP
   MV
@@ -59,14 +70,20 @@ Throughout your journey in Linuxland, you've earned these special badges:
 ```
 
 ### Careful Cleaner
-```
+
+![Careful Cleaner Badge](images/badges/careful-cleaner.svg)
+
+```text
   🧹
   RM
   ⚠️
 ```
 
 ### Master Detective
-```
+
+![Master Detective Badge](images/badges/master-detective.svg)
+
+```text
  🔍
  FIND
  GREP
@@ -74,7 +91,10 @@ Throughout your journey in Linuxland, you've earned these special badges:
 ```
 
 ### Apprentice Wizard
-```
+
+![Apprentice Wizard Badge](images/badges/apprentice-wizard.svg)
+
+```text
   ⚡️
  SUDO
  🧙‍♂️

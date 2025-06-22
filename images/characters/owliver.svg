@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Owliver the Owl -->
+  
+  <!-- Body -->
+  <ellipse cx="150" cy="200" rx="70" ry="90" fill="#8B4513" />
+  
+  <!-- Feather Pattern -->
+  <path d="M100,150 Q150,180 200,150 Q180,230 120,230 Z" fill="#A0522D" />
+  
+  <!-- Head -->
+  <circle cx="150" cy="100" r="70" fill="#8B4513" />
+  
+  <!-- Eyes -->
+  <circle cx="120" cy="90" r="25" fill="white" stroke="#000" stroke-width="2" />
+  <circle cx="180" cy="90" r="25" fill="white" stroke="#000" stroke-width="2" />
+  <circle cx="120" cy="90" r="15" fill="#FFD700" />
+  <circle cx="180" cy="90" r="15" fill="#FFD700" />
+  <circle cx="120" cy="90" r="8" fill="black" />
+  <circle cx="180" cy="90" r="8" fill="black" />
+  
+  <!-- Beak -->
+  <path d="M140,115 L160,115 L150,135 Z" fill="#FFA500" />
+  
+  <!-- Ear Tufts -->
+  <path d="M110,40 L120,70 L130,40" fill="#8B4513" />
+  <path d="M170,40 L180,70 L190,40" fill="#8B4513" />
+  
+  <!-- Wings -->
+  <path d="M80,180 L50,150 L60,220 L80,220" fill="#8B4513" />
+  <path d="M220,180 L250,150 L240,220 L220,220" fill="#8B4513" />
+  
+  <!-- Feet -->
+  <path d="M130,290 L120,310 L130,310 L140,310" fill="#FFA500" />
+  <path d="M170,290 L160,310 L170,310 L180,310" fill="#FFA500" />
+  
+  <!-- Glasses -->
+  <circle cx="120" cy="90" r="30" fill="none" stroke="#000" stroke-width="2" />
+  <circle cx="180" cy="90" r="30" fill="none" stroke="#000" stroke-width="2" />
+  <line x1="150" y1="90" x2="150" y2="90" stroke="#000" stroke-width="2" />
+  
+  <!-- Bow Tie -->
+  <path d="M140,140 L160,140 L150,150 Z" fill="#FF0000" />
+  <path d="M140,160 L160,160 L150,150 Z" fill="#FF0000" />
+  
+  <!-- Scrolls/Books -->
+  <rect x="100" y="230" width="20" height="30" fill="#F5DEB3" transform="rotate(-10, 100, 230)" />
+  <line x1="105" y1="235" x2="115" y2="235" stroke="#000" stroke-width="1" transform="rotate(-10, 100, 230)" />
+  <line x1="105" y1="240" x2="115" y2="240" stroke="#000" stroke-width="1" transform="rotate(-10, 100, 230)" />
+  <line x1="105" y1="245" x2="115" y2="245" stroke="#000" stroke-width="1" transform="rotate(-10, 100, 230)" />
+  
+  <rect x="180" y="230" width="20" height="30" fill="#F5DEB3" transform="rotate(10, 180, 230)" />
+  <line x1="185" y1="235" x2="195" y2="235" stroke="#000" stroke-width="1" transform="rotate(10, 180, 230)" />
+  <line x1="185" y1="240" x2="195" y2="240" stroke="#000" stroke-width="1" transform="rotate(10, 180, 230)" />
+  <line x1="185" y1="245" x2="195" y2="245" stroke="#000" stroke-width="1" transform="rotate(10, 180, 230)" />
+  
+  <!-- Title -->
+  <text x="150" y="340" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#000">Owliver</text>
+</svg>

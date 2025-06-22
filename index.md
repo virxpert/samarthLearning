@@ -8,10 +8,24 @@ Welcome to the magical world of Linuxland, where kids can learn Linux commands t
 
 ## Meet Our Characters
 
-- **Tux**: A curious young penguin who's just beginning to explore Linuxland
-- **Ada**: A clever young explorer who shares helpful tips and tricks
-- **Firefox**: A friendly fox who knows all the shortcuts around Linuxland
-- **Wizard Linus**: The wise creator of Linuxland who guides our young heroes
+### Main Characters
+
+| ![Tux](images/characters/tux.svg) | ![Ada](images/characters/ada.svg) | ![Firefox](images/characters/firefox.svg) | ![Wizard Linus](images/characters/wizard-linus.svg) |
+|:---:|:---:|:---:|:---:|
+| **Tux** | **Ada** | **Firefox** | **Wizard Linus** |
+| A curious young penguin who's just beginning to explore Linuxland | A clever young explorer who shares helpful tips and tricks | A friendly fox who knows all the shortcuts around Linuxland | The wise creator of Linuxland who guides our young heroes |
+
+### Friends Along the Way
+
+| ![Detective Whiskers](images/characters/detective-whiskers.svg) | ![Owliver](images/characters/owliver.svg) | ![Shadow](images/characters/shadow.svg) |
+|:---:|:---:|:---:|
+| **Detective Whiskers** | **Owliver** | **Shadow** |
+| A mouse detective who helps find lost things | A wise owl who knows all about Linux history | A mysterious black cat who teaches about permissions |
+
+| ![Stella](images/characters/stella.svg) | ![Polly](images/characters/polly.svg) | |
+|:---:|:---:|:---:|
+| **Stella** | **Polly** | |
+| A star guide who illuminates hidden features | A parrot who helps remember commands | |
 
 ## Adventures
 
@@ -30,11 +44,11 @@ Each adventure teaches new Linux commands in a fun, story-based format:
 
 ### Advanced Adventures (Coming Soon!)
 
-11. Magical Pipes and Redirects - Connecting commands with `|`, `>`, and `>>`
-12. Creating Spell Books - Writing shell scripts
-13. The Book of Permissions - Understanding `chmod` and `chown`
-14. Secret Messages - Text processing with `grep`, `sed`, and `awk`
-15. Remote Castle Communication - Using `ssh` and `scp`
+1. Magical Pipes and Redirects - Connecting commands with `|`, `>`, and `>>`
+2. Creating Spell Books - Writing shell scripts
+3. The Book of Permissions - Understanding `chmod` and `chown`
+4. Secret Messages - Text processing with `grep`, `sed`, and `awk`
+5. Remote Castle Communication - Using `ssh` and `scp`
 
 ## How to Use This Guide
 
@@ -53,6 +67,7 @@ To get the most out of these adventures, you'll need:
 3. An adult helper for the first few adventures
 
 If you don't have Linux installed, you can:
+
 - Use WSL (Windows Subsystem for Linux) on Windows
 - Use Terminal on macOS (most commands work the same way)
 - Try an online Linux terminal emulator
@@ -63,6 +78,6 @@ These adventures are designed to make learning Linux fun and approachable for ch
 
 The commands taught are safe for beginners, but adult supervision is recommended, especially for younger children or when using commands like `rm` that can delete files.
 
-## Happy Exploring!
+## Happy Exploring
 
 Remember, in Linuxland, learning happens through exploration and play. Don't worry about making mistakes - they're part of the adventure! Just have fun and keep exploring!

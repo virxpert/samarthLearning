@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Apprentice Wizard Badge -->
+  
+  <circle cx="100" cy="100" r="90" fill="#800080" />
+  <circle cx="100" cy="100" r="80" fill="#9400D3" />
+  
+  <!-- Lightning Bolt -->
+  <path d="M100,40 L85,90 L110,90 L90,150" stroke="gold" stroke-width="8" fill="none" />
+  <path d="M100,40 L85,90 L110,90 L90,150 Z" fill="gold" fill-opacity="0.5" />
+  
+  <!-- Command Text -->
+  <text x="100" y="130" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="white">SUDO</text>
+  
+  <!-- Wizard Symbol -->
+  <text x="100" y="170" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="white">🧙‍♂️</text>
+  
+  <!-- Magic Sparkles -->
+  <path d="M60,60 L65,65 L60,70 L55,65 Z" fill="gold" />
+  <path d="M140,60 L145,65 L140,70 L135,65 Z" fill="gold" />
+  <path d="M60,140 L65,145 L60,150 L55,145 Z" fill="gold" />
+  <path d="M140,140 L145,145 L140,150 L135,145 Z" fill="gold" />
+</svg>

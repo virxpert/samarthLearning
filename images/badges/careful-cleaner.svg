@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Careful Cleaner Badge -->
+  
+  <circle cx="100" cy="100" r="90" fill="#CD5C5C" />
+  <circle cx="100" cy="100" r="80" fill="#F08080" />
+  
+  <!-- Broom Symbol -->
+  <line x1="100" y1="40" x2="100" y2="90" stroke="#8B4513" stroke-width="6" />
+  <path d="M80,90 Q100,100 120,90 L120,110 Q100,120 80,110 Z" fill="#8B4513" />
+  <path d="M80,110 L65,140 M90,110 L75,140 M100,110 L85,140 M110,110 L95,140 M120,110 L105,140" stroke="#FFA500" stroke-width="3" />
+  
+  <!-- Command Text -->
+  <text x="100" y="155" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="white">RM</text>
+  
+  <!-- Warning Symbol -->
+  <path d="M75,180 L100,160 L125,180 L75,180" fill="gold" stroke="black" stroke-width="2" />
+  <text x="100" y="177" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="black">!</text>
+</svg>

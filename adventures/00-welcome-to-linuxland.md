@@ -2,7 +2,7 @@
 
 [← Back to Main Index](../index.md)
 
-![Linuxland Map](../images/linuxland-map.png)
+![Linuxland Map](../images/linuxland-map.svg)
 
 ## The Story Begins...
 
